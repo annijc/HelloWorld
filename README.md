@@ -1,4 +1,5 @@
 # HelloWorld
 Some description
+* Bolded List
 * Item 1
-* Item 2
+This is some filler so I have something to commit.
